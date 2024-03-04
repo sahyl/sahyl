@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! 👋 I'm Mohammed Sahil Khan, a passionate B.Tech student majoring in Computer Science Engineering . My academic journey has equipped me with a strong foundation in Python, SQL, HTML, CSS, JavaScript, and various frameworks such as React.js, Node.js. I specialize in data science and machine learning, demonstrated through my projects involving OpenCV, Pandas, TensorFlow, and Keras.
+Hello! 👋 I'm Mohammed Sahil Khan, a passionate  Engineer . My academic journey has equipped me with a strong foundation in Python, SQL, HTML, CSS, JavaScript, and various frameworks such as React.js, Node.js. I specialize in data science and machine learning, demonstrated through my projects involving OpenCV, Pandas, TensorFlow, and Keras.
 
 I am TCS NQT qualified with a strong programming aptitude. With a keen interest in artificial intelligence and data science, I hold certifications in these domains from Prepinsta. My experiences include contributing to a Restaurant Amplification System, integrating AI components for real-time messaging, and authentication. Additionally, I've successfully developed a real-time Note-Taking Website, "NotesForYou," showcasing my proficiency in full-stack development.
 
