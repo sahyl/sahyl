@@ -17,7 +17,7 @@ In my free time, I actively engage in problem-solving on LeetCode, where I've co
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahyl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### 🧩 Open Source Contributions
+# 🧩 Open Source Contributions
 
 - [turborepo#10579](https://github.com/vercel/turborepo/pull/10579): Fixed broken Tailwind CSS styling in the `with-tailwind` example
 
