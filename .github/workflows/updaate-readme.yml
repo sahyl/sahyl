@@ -38,7 +38,7 @@ jobs:
       - name: Commit changes
         run: |
           git config --global user.name "sahyl"  # your GitHub username or display name
-          git config --global user.email "mohammedsahilkhan.msk@gmail.com"  # replace with your GitHub noreply email
+          git config --global user.email "94916289+sahyl@users.noreply.github.com"  # replace with your GitHub noreply email
           git add README.md
           git commit -m "chore: update daily quote ($(TZ=Asia/Kolkata date))" || echo "No changes"
           git push
