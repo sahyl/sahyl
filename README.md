@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random Dev Quote
 <!--START_QUOTE-->
-The more you extend kindness to yourself, the more it will become your automatic response to others. — Wayne Dyer
+No great discovery was ever made without a bold guess.  — Isaac Newton
 <!--END_QUOTE-->
 
 ---
