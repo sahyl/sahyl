@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random Dev Quote
 <!--START_QUOTE-->
-The healthiest response to life is joy. — Deepak Chopra
+It's the job that's never started that takes the longest to finish. — J.R.R. Tolkien
 <!--END_QUOTE-->
 
 ---
