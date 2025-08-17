@@ -2,7 +2,7 @@ name: Update README with Quote
 
 on:
   schedule:
-    - cron: "50 20 17 8 *"   # Runs on 17 Aug 2025 at 20:50 UTC = 18 Aug 2025 at 02:20 IST
+        - cron: "30 6 * * *"   # Runs every day at 12:00 PM IST (06:30 UTC)
   workflow_dispatch:
 
 permissions:
@@ -51,4 +51,4 @@ jobs:
 
       - name: Push changes
         run: |
-          git push https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/sahyl/sahyl.git HEAD:main
+          git push https://x-access-token:${{ secrets.PERSONAL_TOKENN }}@github.com/sahyl/sahyl.git HEAD:main
