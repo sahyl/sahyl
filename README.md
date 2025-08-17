@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random Dev Quote
 <!--START_QUOTE-->
-No great discovery was ever made without a bold guess.  — Isaac Newton
+Great minds discuss ideas. Average minds discuss events. Small minds discuss people. — Eleanor Roosevelt
 <!--END_QUOTE-->
 
 ---
