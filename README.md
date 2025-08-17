@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random Dev Quote
 <!--START_QUOTE-->
-Develop success from failures. Discouragement and failure are two of the surest stepping stones to success. — Dale Carnegie
+Do you want to know who you are? Don't ask. Act! Action will delineate and define you. — Thomas Jefferson
 <!--END_QUOTE-->
 
 ---
