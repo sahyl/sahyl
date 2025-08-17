@@ -1,24 +1,37 @@
 name: Update README with Quote
+
 on:
   schedule:
-    - cron: "30 18 * * *"   # Runs daily at 00:00 IST (18:30 UTC)
+    - cron: "30 18 * * *"   # Runs daily at 00:00 IST
   workflow_dispatch:         # Allow manual trigger
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
-      - name: Fetch Quote
+
+      - name: Fetch Quote with Node
         run: |
-          response=$(curl -s https://api.quotable.io/random)
-          content=$(echo "$response" | grep -oP '"content":"\K[^"]+')
-          author=$(echo "$response" | grep -oP '"author":"\K[^"]+')
-          echo "$content — $author" > quote.txt
+          node -e "
+          const https = require('https');
+          https.get('https://api.quotable.io/random', res => {
+            let data = '';
+            res.on('data', chunk => data += chunk);
+            res.on('end', () => {
+              const q = JSON.parse(data);
+              console.log(q.content + ' — ' + q.author);
+            });
+          });
+          " > quote.txt
+
       - name: Update README
         run: |
           quote=$(cat quote.txt)
           sed -i "/<!--START_QUOTE-->/, /<!--END_QUOTE-->/c\<!--START_QUOTE-->\n$quote\n<!--END_QUOTE-->" README.md
+
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
@@ -26,3 +39,4 @@ jobs:
           git add README.md
           git commit -m "chore: update daily quote ($(date))" || echo "No changes"
           git push
+
