@@ -1,4 +1,5 @@
 name: Update README with Quote
+
 on:
   schedule:
     - cron: "30 18 * * *"   # Runs daily at 00:00 IST
@@ -36,8 +37,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "sahyl"  # your GitHub username or display name
+          git config --global user.email "mohammedsahilkhan.msk@gmail.com"  # replace with your GitHub noreply email
           git add README.md
-          git commit -m "chore: update daily quote ($(date))" || echo "No changes"
+          git commit -m "chore: update daily quote ($(TZ=Asia/Kolkata date))" || echo "No changes"
           git push
