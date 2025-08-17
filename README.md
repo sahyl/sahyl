@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random Dev Quote
 <!--START_QUOTE-->
-Great minds discuss ideas. Average minds discuss events. Small minds discuss people. — Eleanor Roosevelt
+The healthiest response to life is joy. — Deepak Chopra
 <!--END_QUOTE-->
 
 ---
