@@ -1,9 +1,11 @@
 name: Update README with Quote
-
 on:
   schedule:
     - cron: "30 18 * * *"   # Runs daily at 00:00 IST
-  workflow_dispatch:         # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
