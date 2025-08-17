@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random Dev Quote
 <!--START_QUOTE-->
-Good luck is opportunity meeting preparedness. — Deepak Chopra
+Develop success from failures. Discouragement and failure are two of the surest stepping stones to success. — Dale Carnegie
 <!--END_QUOTE-->
 
 ---
