@@ -49,11 +49,10 @@ My journey blends **data science, backend engineering, and AI research** — dem
 - [turborepo#10579](https://github.com/vercel/turborepo/pull/10579): Fixed broken Tailwind CSS styling in the `with-tailwind` example
 
 ---
-
 ### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+<!--START_QUOTE-->
+Refreshing quote will appear here...
+<!--END_QUOTE-->
 
 ---
 
