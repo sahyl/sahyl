@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random Dev Quote
 <!--START_QUOTE-->
-Great loves too must be endured. — Coco Chanel
+Man invented language to satisfy his deep need to complain. — Lily Tomlin
 <!--END_QUOTE-->
 
 ---
