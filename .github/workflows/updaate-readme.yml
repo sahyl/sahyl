@@ -15,6 +15,9 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          ref: main
+          fetch-depth: 0   # fetch full history to avoid push conflicts
 
       - name: Fetch Quote with Node
         run: |
@@ -41,6 +44,10 @@ jobs:
           git config --global user.email "94916289+sahyl@users.noreply.github.com"
           git add README.md
           git commit -m "chore: update daily quote ($(TZ=Asia/Kolkata date))" || echo "No changes"
+
+      - name: Pull latest main (avoid conflicts)
+        run: |
+          git pull --rebase origin main || echo "No changes to rebase"
 
       - name: Push changes
         run: |
