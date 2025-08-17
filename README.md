@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random Dev Quote
 <!--START_QUOTE-->
-Do you want to know who you are? Don't ask. Act! Action will delineate and define you. — Thomas Jefferson
+The more you extend kindness to yourself, the more it will become your automatic response to others. — Wayne Dyer
 <!--END_QUOTE-->
 
 ---
