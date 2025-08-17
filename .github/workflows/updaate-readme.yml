@@ -2,7 +2,7 @@ name: Update README with Quote
 
 on:
   schedule:
-    - cron: "45 19 * * *"    # Runs daily at 01:15 AM IST
+    - cron: "0 20 * * *"     # Runs daily at 01:15 AM IST
   workflow_dispatch:
 
 permissions:
@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          persist-credentials: false
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Fetch Quote with Node
         run: |
@@ -43,4 +43,4 @@ jobs:
           git config --global user.email "94916289+sahyl@users.noreply.github.com"
           git add README.md
           git commit -m "chore: update daily quote ($(TZ=Asia/Kolkata date '+%Y-%m-%d %H:%M:%S IST'))" || echo "No changes"
-          git push
+          git push origin HEAD:main
