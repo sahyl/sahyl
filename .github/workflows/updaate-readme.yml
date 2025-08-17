@@ -17,12 +17,12 @@ jobs:
         run: |
           node -e "
           const https = require('https');
-          https.get('https://api.quotable.io/random', res => {
+          https.get('https://zenquotes.io/api/random', res => {
             let data = '';
             res.on('data', chunk => data += chunk);
             res.on('end', () => {
-              const q = JSON.parse(data);
-              console.log(q.content + ' — ' + q.author);
+              const q = JSON.parse(data)[0];
+              console.log(q.q + ' — ' + q.a);
             });
           });
           " > quote.txt
@@ -39,4 +39,3 @@ jobs:
           git add README.md
           git commit -m "chore: update daily quote ($(date))" || echo "No changes"
           git push
-
