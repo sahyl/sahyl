@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random Dev Quote
 <!--START_QUOTE-->
-Man invented language to satisfy his deep need to complain. — Lily Tomlin
+The biggest adventure you can ever take is to live the life of your dreams.  — Oprah Winfrey
 <!--END_QUOTE-->
 
 ---
