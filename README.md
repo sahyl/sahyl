@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random Dev Quote
 <!--START_QUOTE-->
-The biggest adventure you can ever take is to live the life of your dreams.  — Oprah Winfrey
+When you're curious, you find lots of interesting things to do. — Walt Disney
 <!--END_QUOTE-->
 
 ---
