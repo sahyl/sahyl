@@ -2,7 +2,7 @@ name: Update README with Quote
 
 on:
   schedule:
-        - cron: "30 6 * * *"   # Runs every day at 12:00 PM IST (06:30 UTC)
+    - cron: "30 6 * * *"   # Runs every day at 12:00 PM IST (06:30 UTC)
   workflow_dispatch:
 
 permissions:
@@ -43,7 +43,8 @@ jobs:
           git config --global user.name "sahyl"
           git config --global user.email "94916289+sahyl@users.noreply.github.com"
           git add README.md
-          git commit -m "chore: update daily quote ($(TZ=Asia/Kolkata date))" || echo "No changes"
+          # Force commit even if no changes (so daily green box guaranteed)
+          git commit -m "chore: update daily quote ($(TZ=Asia/Kolkata date))" || git commit --allow-empty -m "chore: keep activity alive ($(TZ=Asia/Kolkata date))"
 
       - name: Pull latest main (avoid conflicts)
         run: |
@@ -52,3 +53,4 @@ jobs:
       - name: Push changes
         run: |
           git push https://x-access-token:${{ secrets.PERSONAL_TOKENN }}@github.com/sahyl/sahyl.git HEAD:main
+
