@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random Dev Quote
 <!--START_QUOTE-->
-When you're curious, you find lots of interesting things to do. — Walt Disney
+If you are far from the enemy, make him believe you are near. — Sun Tzu
 <!--END_QUOTE-->
 
 ---
