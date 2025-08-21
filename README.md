@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random Dev Quote
 <!--START_QUOTE-->
-If you are far from the enemy, make him believe you are near. — Sun Tzu
+Life reflects your own thoughts back to you. — Napoleon Hill
 <!--END_QUOTE-->
 
 ---
