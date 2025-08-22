@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random Dev Quote
 <!--START_QUOTE-->
-Life reflects your own thoughts back to you. — Napoleon Hill
+You are what you believe in. You become that which you believe you can become. — Bhagavad Gita
 <!--END_QUOTE-->
 
 ---
