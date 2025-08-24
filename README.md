@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random Dev Quote
 <!--START_QUOTE-->
-Coming together is a beginning, staying together is progress, and working together is success.  — Henry Ford
+Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time. — Og Mandino
 <!--END_QUOTE-->
 
 ---
