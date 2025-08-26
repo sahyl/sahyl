@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random Dev Quote
 <!--START_QUOTE-->
-Learning is a gift, even when pain is your teacher. — Michael Jordan
+Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored. — Earl Nightingale
 <!--END_QUOTE-->
 
 ---
