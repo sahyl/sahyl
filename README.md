@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random Dev Quote
 <!--START_QUOTE-->
-You can't tell big dreams to small minded people. — Steve Harvey
+It is amazing what you can accomplish if you do not care who gets the credit. — Harry S. Truman
 <!--END_QUOTE-->
 
 ---
