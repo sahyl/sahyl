@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random Dev Quote
 <!--START_QUOTE-->
-It is amazing what you can accomplish if you do not care who gets the credit. — Harry S. Truman
+Treat every moment as your last. It is not preparation for something else. — Shunryu Suzuki
 <!--END_QUOTE-->
 
 ---
