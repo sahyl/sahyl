@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random Dev Quote
 <!--START_QUOTE-->
-Treat every moment as your last. It is not preparation for something else. — Shunryu Suzuki
+Do not think you will necessarily be aware of your own enlightenment. — Dogen
 <!--END_QUOTE-->
 
 ---
