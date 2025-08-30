@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sahil Khan</h1>
-<h3 align="center">Engineer | Film Enthusiast | Full-Stack Explorer</h3>
+<h3 align="center">Engineer  | Full-Stack Explorer</h3>
 
 ---
 
@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 - [turborepo#10579](https://github.com/vercel/turborepo/pull/10579): Fixed broken Tailwind CSS styling in the `with-tailwind` example
 
 ---
-### ✍️ Random Dev Quote
+### ✍️ Random  Quote
 <!--START_QUOTE-->
 Do not think you will necessarily be aware of your own enlightenment. — Dogen
 <!--END_QUOTE-->
