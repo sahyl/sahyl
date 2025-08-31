@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Do not think you will necessarily be aware of your own enlightenment. — Dogen
+Nothing is impossible. The word itself says 'I'm possible!' — Audrey Hepburn
 <!--END_QUOTE-->
 
 ---
