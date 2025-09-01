@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Nothing is impossible. The word itself says 'I'm possible!' — Audrey Hepburn
+Do not bite at the bait of pleasure, till you know there is no hook beneath it. — Thomas Jefferson
 <!--END_QUOTE-->
 
 ---
