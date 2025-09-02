@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Do not bite at the bait of pleasure, till you know there is no hook beneath it. — Thomas Jefferson
+Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort. — Steve Harvey
 <!--END_QUOTE-->
 
 ---
