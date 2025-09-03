@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort. — Steve Harvey
+It is easy to discover what another has discovered before. — Christopher Columbus
 <!--END_QUOTE-->
 
 ---
