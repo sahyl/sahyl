@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-It is easy to discover what another has discovered before. — Christopher Columbus
+There are no uninteresting things, only uninterested people. — Gilbert Chesterton
 <!--END_QUOTE-->
 
 ---
