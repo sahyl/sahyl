@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-There are no uninteresting things, only uninterested people. — Gilbert Chesterton
+Life is not a problem to be solved, but a reality to be experienced. — Soren Kierkegaard
 <!--END_QUOTE-->
 
 ---
