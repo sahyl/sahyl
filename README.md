@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Life is not a problem to be solved, but a reality to be experienced. — Soren Kierkegaard
+Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough.  — Oprah Winfrey
 <!--END_QUOTE-->
 
 ---
