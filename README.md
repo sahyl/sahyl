@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough.  — Oprah Winfrey
+An investment in knowledge pays the best interest. — Benjamin Franklin
 <!--END_QUOTE-->
 
 ---
