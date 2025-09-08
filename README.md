@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-An investment in knowledge pays the best interest. — Benjamin Franklin
+Let us rather run the risk of wearing out than rusting out. — Theodore Roosevelt
 <!--END_QUOTE-->
 
 ---
