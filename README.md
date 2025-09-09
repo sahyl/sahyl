@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Let us rather run the risk of wearing out than rusting out. — Theodore Roosevelt
+If you let your head get too big, it'll break your neck. — Elvis Presley
 <!--END_QUOTE-->
 
 ---
