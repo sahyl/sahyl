@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-If you let your head get too big, it'll break your neck. — Elvis Presley
+The road to success and the road to failure are almost exactly the same. — Colin R. Davis
 <!--END_QUOTE-->
 
 ---
