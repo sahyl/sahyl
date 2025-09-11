@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-The road to success and the road to failure are almost exactly the same. — Colin R. Davis
+The only way round is through. — Robert Frost
 <!--END_QUOTE-->
 
 ---
