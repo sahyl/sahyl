@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-The only way round is through. — Robert Frost
+Instead of thinking outside the box, get rid of the box. — Deepak Chopra
 <!--END_QUOTE-->
 
 ---
