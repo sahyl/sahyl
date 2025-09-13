@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Instead of thinking outside the box, get rid of the box. — Deepak Chopra
+When you lose your desire for things that do not matter, you will be free. — Morihei Ueshiba
 <!--END_QUOTE-->
 
 ---
