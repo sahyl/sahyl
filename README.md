@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-When you lose your desire for things that do not matter, you will be free. — Morihei Ueshiba
+Make each day your masterpiece. — John Wooden
 <!--END_QUOTE-->
 
 ---
