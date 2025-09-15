@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Make each day your masterpiece. — John Wooden
+Truth is not something outside to be discovered, it is something inside to be realized. — Osho
 <!--END_QUOTE-->
 
 ---
