@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Truth is not something outside to be discovered, it is something inside to be realized. — Osho
+If a thing is worth doing, it is worth doing badly. — Gilbert Chesterton
 <!--END_QUOTE-->
 
 ---
