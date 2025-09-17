@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-If a thing is worth doing, it is worth doing badly. — Gilbert Chesterton
+It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated. — Albus Dumbledore
 <!--END_QUOTE-->
 
 ---
