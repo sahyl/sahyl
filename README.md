@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Acknowledging the good that you already have in your life is the foundation for all abundance. — Eckhart Tolle
+A real friend is one who walks in when the rest of the world walks out. — Unknown
 <!--END_QUOTE-->
 
 ---
