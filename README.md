@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-A real friend is one who walks in when the rest of the world walks out. — Unknown
+Live and act within the limit of your knowledge and keep expanding it to the limit of your life. — Ayn Rand
 <!--END_QUOTE-->
 
 ---
