@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Live and act within the limit of your knowledge and keep expanding it to the limit of your life. — Ayn Rand
+No idea, no matter how good, will work if it doesn't get used. — Peter A. Cohen
 <!--END_QUOTE-->
 
 ---
