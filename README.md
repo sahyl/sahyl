@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-No idea, no matter how good, will work if it doesn't get used. — Peter A. Cohen
+If light is in your heart, you will find your way home.   — Rumi
 <!--END_QUOTE-->
 
 ---
