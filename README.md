@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-If light is in your heart, you will find your way home.   — Rumi
+To every action there is always opposed an equal reaction. — Isaac Newton
 <!--END_QUOTE-->
 
 ---
