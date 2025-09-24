@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-To every action there is always opposed an equal reaction. — Isaac Newton
+Allow motion to equal emotion. — Elbert Hubbard
 <!--END_QUOTE-->
 
 ---
