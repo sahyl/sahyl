@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Allow motion to equal emotion. — Elbert Hubbard
+Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT. — Deepak Chopra
 <!--END_QUOTE-->
 
 ---
