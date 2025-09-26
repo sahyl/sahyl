@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT. — Deepak Chopra
+Small men think they are small; great men never know they are great.  — Chinese Proverb
 <!--END_QUOTE-->
 
 ---
