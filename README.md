@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Small men think they are small; great men never know they are great.  — Chinese Proverb
+Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending. — Carl Bard
 <!--END_QUOTE-->
 
 ---
