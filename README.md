@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending. — Carl Bard
+It takes half your life before you discover life is a do-it-yourself project. — Napoleon Hill
 <!--END_QUOTE-->
 
 ---
