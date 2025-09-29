@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-It takes half your life before you discover life is a do-it-yourself project. — Napoleon Hill
+You must find the place inside yourself where nothing is impossible. — Deepak Chopra
 <!--END_QUOTE-->
 
 ---
