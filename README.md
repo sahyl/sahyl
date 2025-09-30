@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-You must find the place inside yourself where nothing is impossible. — Deepak Chopra
+Don't be pushed by your problems; be led by your dreams. — Unknown
 <!--END_QUOTE-->
 
 ---
