@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Don't be pushed by your problems; be led by your dreams. — Unknown
+To find yourself, think for yourself. — Socrates
 <!--END_QUOTE-->
 
 ---
