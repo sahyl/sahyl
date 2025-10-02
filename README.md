@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-To find yourself, think for yourself. — Socrates
+When you have a dream, you've got to grab it and never let go. — Carol Burnett
 <!--END_QUOTE-->
 
 ---
