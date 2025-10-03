@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-When you have a dream, you've got to grab it and never let go. — Carol Burnett
+What kills the creative force is not age or lack of talent, but our own spirit, our own attitude. — Robert Greene
 <!--END_QUOTE-->
 
 ---
