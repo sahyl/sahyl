@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-What kills the creative force is not age or lack of talent, but our own spirit, our own attitude. — Robert Greene
+To bear trials with a calm mind robs misfortune of its strength and burden. — Seneca
 <!--END_QUOTE-->
 
 ---
