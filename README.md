@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-To bear trials with a calm mind robs misfortune of its strength and burden. — Seneca
+Everyday is a second chance. — Unknown
 <!--END_QUOTE-->
 
 ---
