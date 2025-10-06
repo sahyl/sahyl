@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Everyday is a second chance. — Unknown
+Remember to look up at the stars and not down at your feet. — Stephen Hawking
 <!--END_QUOTE-->
 
 ---
