@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Remember to look up at the stars and not down at your feet. — Stephen Hawking
+Others have seen what is and asked why. I have seen what could be and asked why not — Pablo Picasso
 <!--END_QUOTE-->
 
 ---
