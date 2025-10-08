@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Others have seen what is and asked why. I have seen what could be and asked why not — Pablo Picasso
+Love is merely the name for the desire and pursuit of the whole. — Aristophanes
 <!--END_QUOTE-->
 
 ---
