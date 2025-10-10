@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Words are the clothing of our thoughts. — Jonathan Swift
+Love is merely the name for the desire and pursuit of the whole. — Aristophanes
 <!--END_QUOTE-->
 
 ---
