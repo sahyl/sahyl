@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Love is merely the name for the desire and pursuit of the whole. — Aristophanes
+An un-examined life is not worth living. — Socrates
 <!--END_QUOTE-->
 
 ---
