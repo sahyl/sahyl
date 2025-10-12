@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-An un-examined life is not worth living. — Socrates
+Life is trying things to see if they work. — Ray Bradbury
 <!--END_QUOTE-->
 
 ---
