@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Life is trying things to see if they work. — Ray Bradbury
+Begin at once to live, and count each separate day as a separate life.   — Seneca
 <!--END_QUOTE-->
 
 ---
