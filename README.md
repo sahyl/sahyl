@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Begin at once to live, and count each separate day as a separate life.   — Seneca
+The friendship that can cease has never been real.  — St. Jerome
 <!--END_QUOTE-->
 
 ---
