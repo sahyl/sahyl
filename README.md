@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-The friendship that can cease has never been real.  — St. Jerome
+It is the power of thought that gives man power over nature. — Hans Christian Andersen
 <!--END_QUOTE-->
 
 ---
