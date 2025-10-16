@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-It is the power of thought that gives man power over nature. — Hans Christian Andersen
+Don't let the silly little dramas of each day get you down. For you are here to do great things. — Ralph Marston
 <!--END_QUOTE-->
 
 ---
