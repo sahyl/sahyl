@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Don't let the silly little dramas of each day get you down. For you are here to do great things. — Ralph Marston
+A leader leads by example, not by force. — Sun Tzu
 <!--END_QUOTE-->
 
 ---
