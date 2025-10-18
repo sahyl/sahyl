@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-A leader leads by example, not by force. — Sun Tzu
+Love your enemies, for they tell you your faults. — Benjamin Franklin
 <!--END_QUOTE-->
 
 ---
