@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Love your enemies, for they tell you your faults. — Benjamin Franklin
+Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day! — Og Mandino
 <!--END_QUOTE-->
 
 ---
