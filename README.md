@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become. — Paramahansa Yogananda
+The best revenge is to be unlike him who performed the injury. — Marcus Aurelius
 <!--END_QUOTE-->
 
 ---
