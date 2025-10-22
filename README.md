@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-The best revenge is to be unlike him who performed the injury. — Marcus Aurelius
+It is better to disappoint people with the truth than to appease them with a lie. — Simon Sinek
 <!--END_QUOTE-->
 
 ---
