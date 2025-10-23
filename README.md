@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-It is better to disappoint people with the truth than to appease them with a lie. — Simon Sinek
+When one does not have what one wants, one must want what one has. — Sigmund Freud
 <!--END_QUOTE-->
 
 ---
