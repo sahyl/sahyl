@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-When one does not have what one wants, one must want what one has. — Sigmund Freud
+What the eye doesn't see and the mind doesn't know, doesn't exist. — D. H. Lawrence
 <!--END_QUOTE-->
 
 ---
