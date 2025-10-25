@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-What the eye doesn't see and the mind doesn't know, doesn't exist. — D. H. Lawrence
+You need to be doing fewer things for more effect instead of doing more things with side effects. — Gary Keller
 <!--END_QUOTE-->
 
 ---
