@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-You need to be doing fewer things for more effect instead of doing more things with side effects. — Gary Keller
+Our deeds determine us, as much as we determine our deeds. — George Eliot
 <!--END_QUOTE-->
 
 ---
