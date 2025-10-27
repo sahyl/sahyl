@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Our deeds determine us, as much as we determine our deeds. — George Eliot
+Life is a process. We are a process. The universe is a process. — Anne Wilson Schaef
 <!--END_QUOTE-->
 
 ---
