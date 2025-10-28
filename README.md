@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Life is a process. We are a process. The universe is a process. — Anne Wilson Schaef
+Make your stand today. On this spot. On this day. — Ming-Dao Deng
 <!--END_QUOTE-->
 
 ---
