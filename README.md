@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Make your stand today. On this spot. On this day. — Ming-Dao Deng
+The key to success is to focus our conscious mind on things we desire not things we fear.  — Brian Tracy
 <!--END_QUOTE-->
 
 ---
