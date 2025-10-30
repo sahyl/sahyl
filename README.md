@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-The key to success is to focus our conscious mind on things we desire not things we fear.  — Brian Tracy
+She who loves roses must be patient and not cry out when she is pierced by thorns. — Kenji Miyazawa
 <!--END_QUOTE-->
 
 ---
