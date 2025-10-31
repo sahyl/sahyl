@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-She who loves roses must be patient and not cry out when she is pierced by thorns. — Kenji Miyazawa
+I dream my painting and I paint my dream. — Vincent van Gogh
 <!--END_QUOTE-->
 
 ---
