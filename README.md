@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-I dream my painting and I paint my dream. — Vincent van Gogh
+Convinced myself, I seek not to convince. — Edgar Allan Poe
 <!--END_QUOTE-->
 
 ---
