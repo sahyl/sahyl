@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Convinced myself, I seek not to convince. — Edgar Allan Poe
+If we know how to adapt, we end up being superior. — Ming-Dao Deng
 <!--END_QUOTE-->
 
 ---
