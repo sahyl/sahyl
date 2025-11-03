@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-If we know how to adapt, we end up being superior. — Ming-Dao Deng
+Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is. — Nicolas Chamfort
 <!--END_QUOTE-->
 
 ---
