@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Heroes don't need to talk about what they did. — W.P. Kinsella
+Do not pray for an easy life, pray for the strength to endure a difficult one.   — Bruce Lee
 <!--END_QUOTE-->
 
 ---
