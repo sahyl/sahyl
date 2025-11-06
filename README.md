@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Do not pray for an easy life, pray for the strength to endure a difficult one.   — Bruce Lee
+A goal is a dream with a deadline. — Napoleon Hill
 <!--END_QUOTE-->
 
 ---
