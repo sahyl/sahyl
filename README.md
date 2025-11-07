@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-A goal is a dream with a deadline. — Napoleon Hill
+Don't spend time beating on a wall, hoping to transform it into a door. — Coco Chanel
 <!--END_QUOTE-->
 
 ---
