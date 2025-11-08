@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Don't spend time beating on a wall, hoping to transform it into a door. — Coco Chanel
+We become brave by doing brave acts. — Aristotle
 <!--END_QUOTE-->
 
 ---
