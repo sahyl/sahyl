@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-We become brave by doing brave acts. — Aristotle
+Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy. — Robert Kiyosaki
 <!--END_QUOTE-->
 
 ---
