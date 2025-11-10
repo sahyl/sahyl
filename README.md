@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy. — Robert Kiyosaki
+Your chances of success in any undertaking can always be measured by your belief in yourself. — Robert Collier
 <!--END_QUOTE-->
 
 ---
