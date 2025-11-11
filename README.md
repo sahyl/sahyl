@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Your chances of success in any undertaking can always be measured by your belief in yourself. — Robert Collier
+The Art of Peace begins with you. — Morihei Ueshiba
 <!--END_QUOTE-->
 
 ---
