@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-The Art of Peace begins with you. — Morihei Ueshiba
+One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy. — Elon Musk
 <!--END_QUOTE-->
 
 ---
