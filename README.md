@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy. — Elon Musk
+If you want to know what God thinks about money just look at the people He gives it to. — Alexander Pope
 <!--END_QUOTE-->
 
 ---
