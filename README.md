@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-If you want to know what God thinks about money just look at the people He gives it to. — Alexander Pope
+Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence. — Helen Keller
 <!--END_QUOTE-->
 
 ---
