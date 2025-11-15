@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence. — Helen Keller
+The two most powerful warriors are patience and time. — Leo Tolstoy
 <!--END_QUOTE-->
 
 ---
