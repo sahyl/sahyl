@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-The two most powerful warriors are patience and time. — Leo Tolstoy
+Every man gotta right to decide his own destiny. — Bob Marley
 <!--END_QUOTE-->
 
 ---
