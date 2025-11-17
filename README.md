@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Every man gotta right to decide his own destiny. — Bob Marley
+Optimism, when applied to your life, develops strength and peace within you. — Norman Vincent Peale
 <!--END_QUOTE-->
 
 ---
