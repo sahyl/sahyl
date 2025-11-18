@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Optimism, when applied to your life, develops strength and peace within you. — Norman Vincent Peale
+The essence of the Way is detachment. — Bodhidharma
 <!--END_QUOTE-->
 
 ---
