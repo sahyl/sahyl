@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-The essence of the Way is detachment. — Bodhidharma
+Where violence reigns, reason is weak. — Nicolas Chamfort
 <!--END_QUOTE-->
 
 ---
