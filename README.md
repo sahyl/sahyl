@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Where violence reigns, reason is weak. — Nicolas Chamfort
+Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence. — Sydney Smith
 <!--END_QUOTE-->
 
 ---
