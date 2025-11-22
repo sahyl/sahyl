@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Beauty is not in the face; beauty is a light in the heart. — Kahlil Gibran
+Quiet people have the loudest minds. — Stephen King
 <!--END_QUOTE-->
 
 ---
