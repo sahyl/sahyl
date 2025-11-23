@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Quiet people have the loudest minds. — Stephen King
+Wheresoever you go, go with all your heart. — Confucius
 <!--END_QUOTE-->
 
 ---
