@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Wheresoever you go, go with all your heart. — Confucius
+Being in a good frame of mind helps keep one in the picture of health. — Unknown
 <!--END_QUOTE-->
 
 ---
