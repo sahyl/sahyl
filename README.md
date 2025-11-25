@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Being in a good frame of mind helps keep one in the picture of health. — Unknown
+Information changes your mind. Action changes your circumstances. — Jack Butcher
 <!--END_QUOTE-->
 
 ---
