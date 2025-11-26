@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Information changes your mind. Action changes your circumstances. — Jack Butcher
+You can only be afraid of what you think you know. — Jiddu Krishnamurti
 <!--END_QUOTE-->
 
 ---
