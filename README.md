@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-You can only be afraid of what you think you know. — Jiddu Krishnamurti
+Talent is luck. The important thing in life is courage. — Woody Allen
 <!--END_QUOTE-->
 
 ---
