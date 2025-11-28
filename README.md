@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Talent is luck. The important thing in life is courage. — Woody Allen
+I want the fishing rod, not the fish. — Yanni
 <!--END_QUOTE-->
 
 ---
