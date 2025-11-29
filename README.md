@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-I want the fishing rod, not the fish. — Yanni
+Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward. — Colin Powell
 <!--END_QUOTE-->
 
 ---
