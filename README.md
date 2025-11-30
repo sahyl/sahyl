@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward. — Colin Powell
+Life is much more successfully looked at from a single window. — F. Scott Fitzgerald
 <!--END_QUOTE-->
 
 ---
