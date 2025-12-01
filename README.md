@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Life is much more successfully looked at from a single window. — F. Scott Fitzgerald
+Be willing to be a beginner every single morning. — Meister Eckhart
 <!--END_QUOTE-->
 
 ---
