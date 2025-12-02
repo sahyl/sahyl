@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Be willing to be a beginner every single morning. — Meister Eckhart
+Dream big. Start small. But most of all, start. — Simon Sinek
 <!--END_QUOTE-->
 
 ---
