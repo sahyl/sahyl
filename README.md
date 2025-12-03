@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Dream big. Start small. But most of all, start. — Simon Sinek
+Unless you change how you are, you will always have what you got. — Jim Rohn
 <!--END_QUOTE-->
 
 ---
