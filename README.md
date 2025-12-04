@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Unless you change how you are, you will always have what you got. — Jim Rohn
+Your dream has to be bigger than your fear. — Steve Harvey
 <!--END_QUOTE-->
 
 ---
