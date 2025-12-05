@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Your dream has to be bigger than your fear. — Steve Harvey
+Continuous effort - not strength or intelligence - is the key to unlocking our potential. — Winston Churchill
 <!--END_QUOTE-->
 
 ---
