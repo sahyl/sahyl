@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Continuous effort - not strength or intelligence - is the key to unlocking our potential. — Winston Churchill
+The roots of education are bitter, but the fruit is sweet. — Aristotle
 <!--END_QUOTE-->
 
 ---
