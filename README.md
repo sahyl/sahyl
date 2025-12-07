@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-The roots of education are bitter, but the fruit is sweet. — Aristotle
+Charms strike the sight, but merit wins the soul. — Alexander Pope
 <!--END_QUOTE-->
 
 ---
