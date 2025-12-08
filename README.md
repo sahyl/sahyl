@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Charms strike the sight, but merit wins the soul. — Alexander Pope
+It's not the love you make. It's the love you give.  — Nikola Tesla
 <!--END_QUOTE-->
 
 ---
