@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-It's not the love you make. It's the love you give.  — Nikola Tesla
+Question everything. Learn something. Answer nothing. — Euripides
 <!--END_QUOTE-->
 
 ---
