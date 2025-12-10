@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Question everything. Learn something. Answer nothing. — Euripides
+Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood. — Charles Dickens
 <!--END_QUOTE-->
 
 ---
