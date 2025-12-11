@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood. — Charles Dickens
+True knowledge exists in knowing that you know nothing. — Socrates
 <!--END_QUOTE-->
 
 ---
