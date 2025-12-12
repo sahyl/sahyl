@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-True knowledge exists in knowing that you know nothing. — Socrates
+I am always doing what I cannot do yet, in order to learn how to do it. — Vincent van Gogh
 <!--END_QUOTE-->
 
 ---
