@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-I am always doing what I cannot do yet, in order to learn how to do it. — Vincent van Gogh
+The only reason to be alive is to enjoy it. — Rita Mae Brown
 <!--END_QUOTE-->
 
 ---
