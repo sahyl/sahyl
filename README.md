@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-The only reason to be alive is to enjoy it. — Rita Mae Brown
+What we know is a drop, what we don't know is an ocean.  — Isaac Newton
 <!--END_QUOTE-->
 
 ---
