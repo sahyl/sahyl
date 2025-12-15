@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-What we know is a drop, what we don't know is an ocean.  — Isaac Newton
+Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found. — Pema Chodron
 <!--END_QUOTE-->
 
 ---
