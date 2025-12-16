@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found. — Pema Chodron
+Champions keep playing until they get it right. — Billie Jean King
 <!--END_QUOTE-->
 
 ---
