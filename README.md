@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Champions keep playing until they get it right. — Billie Jean King
+The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches. — Ming-Dao Deng
 <!--END_QUOTE-->
 
 ---
