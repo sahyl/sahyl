@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches. — Ming-Dao Deng
+Life is not meant to be easy my child, but take courage: it can be delightful. — George Bernard Shaw
 <!--END_QUOTE-->
 
 ---
