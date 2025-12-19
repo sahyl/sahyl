@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Life is not meant to be easy my child, but take courage: it can be delightful. — George Bernard Shaw
+Turn your face to the sun, as flowers know how to do. — Ming-Dao Deng
 <!--END_QUOTE-->
 
 ---
