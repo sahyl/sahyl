@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Turn your face to the sun, as flowers know how to do. — Ming-Dao Deng
+Every strike brings me closer to the next home run.  — Babe Ruth
 <!--END_QUOTE-->
 
 ---
