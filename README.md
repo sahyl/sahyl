@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Every strike brings me closer to the next home run.  — Babe Ruth
+Motivation is what gets you started. Habit is what keeps you going. — Jim Rohn
 <!--END_QUOTE-->
 
 ---
