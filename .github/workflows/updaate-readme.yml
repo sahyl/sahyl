@@ -2,7 +2,8 @@ name: Update README with Quote
 
 on:
   schedule:
-    - cron: "30 6 * * *"   # Runs every day at 12:00 PM IST (06:30 UTC)
+    # Runs every day at 12:00 PM IST (06:30 UTC)
+    - cron: "30 6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -17,9 +18,9 @@ jobs:
         uses: actions/checkout@v3
         with:
           ref: main
-          fetch-depth: 0   # fetch full history to avoid push conflicts
+          fetch-depth: 0
 
-      - name: Fetch Quote with Node
+      - name: Fetch Quote
         run: |
           node -e "
           const https = require('https');
@@ -33,18 +34,26 @@ jobs:
           });
           " > quote.txt
 
-      - name: Update README
-        run: |
-          quote=$(cat quote.txt)
-          sed -i "/<!--START_QUOTE-->/, /<!--END_QUOTE-->/c\<!--START_QUOTE-->\n$quote\n<!--END_QUOTE-->" README.md
+      - name: Generate random commit count
+        run: echo "COUNT=$((RANDOM % 6 + 1))" >> $GITHUB_ENV
 
-      - name: Commit changes
+      - name: Update README and commit randomly
         run: |
           git config --global user.name "sahyl"
           git config --global user.email "94916289+sahyl@users.noreply.github.com"
-          git add README.md
-          # Force commit even if no changes (so daily green box guaranteed)
-          git commit -m "chore: update daily quote ($(TZ=Asia/Kolkata date))" || git commit --allow-empty -m "chore: keep activity alive ($(TZ=Asia/Kolkata date))"
+
+          quote=$(cat quote.txt)
+
+          for i in $(seq 1 $COUNT); do
+            timestamp=$(date +"%H:%M:%S")
+
+            sed -i "/<!--START_QUOTE-->/, /<!--END_QUOTE-->/c\<!--START_QUOTE-->\n$quote\n\n_Last updated: $timestamp_\n<!--END_QUOTE-->" README.md
+
+            git add README.md
+            git commit -m "chore: update daily quote ($i/$COUNT – $(TZ=Asia/Kolkata date))"
+
+            sleep $((RANDOM % 20 + 5))
+          done
 
       - name: Pull latest main (avoid conflicts)
         run: |
