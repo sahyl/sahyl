@@ -49,7 +49,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Motivation is what gets you started. Habit is what keeps you going. — Jim Rohn
+Do you want to know who you are? Don't ask. Act! Action will delineate and define you. — Thomas Jefferson
 <!--END_QUOTE-->
 
 ---
