@@ -1,9 +1,7 @@
 name: Update README with Quote
-
 on:
   schedule:
-    # Runs every day at 12:00 PM IST (06:30 UTC)
-    - cron: "30 6 * * *"
+    - cron: "30 6 * * *"  # 06:30 UTC = 12:00 PM IST
   workflow_dispatch:
 
 permissions:
@@ -12,54 +10,53 @@ permissions:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-        with:
-          ref: main
-          fetch-depth: 0
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Fetch Quote
+      - name: Fetch random quote
         run: |
           node -e "
           const https = require('https');
-          https.get('https://zenquotes.io/api/random', res => {
+          https.get('https://zenquotes.io/api/random', (res) => {
             let data = '';
             res.on('data', chunk => data += chunk);
             res.on('end', () => {
-              const q = JSON.parse(data)[0];
-              console.log(q.q + ' — ' + q.a);
+              try {
+                const q = JSON.parse(data)[0];
+                console.log(q.q + ' — ' + q.a);
+              } catch (e) {
+                console.log('Be the change you wish to see in the world. — Mahatma Gandhi');
+              }
             });
+          }).on('error', () => {
+            console.log('Fallback quote: Stay hungry, stay foolish. — Steve Jobs');
           });
           " > quote.txt
 
-      - name: Generate random commit count
+      - name: Set random commit count (1-6)
         run: echo "COUNT=$((RANDOM % 6 + 1))" >> $GITHUB_ENV
 
-      - name: Update README and commit randomly
+      - name: Update README multiple times
         run: |
           git config --global user.name "sahyl"
           git config --global user.email "94916289+sahyl@users.noreply.github.com"
 
           quote=$(cat quote.txt)
+          timestamp=$(date +"%H:%M:%S")
 
-          for i in $(seq 1 $COUNT); do
-            timestamp=$(date +"%H:%M:%S")
+          echo "Making ${{ env.COUNT }} commit(s) today..."
 
-            sed -i "/<!--START_QUOTE-->/, /<!--END_QUOTE-->/c\<!--START_QUOTE-->\n$quote\n\n_Last updated: $timestamp_\n<!--END_QUOTE-->" README.md
+          for i in $(seq 1 ${{ env.COUNT }}); do
+            # Update README with quote + timestamp
+            sed -i "/<!--START_QUOTE-->/,/<!--END_QUOTE-->/c\<!--START_QUOTE-->\n$quote\n\n_Last updated: $(TZ=Asia/Kolkata date '+%H:%M:%S on %d %b %Y')_\n<!--END_QUOTE-->" README.md
 
             git add README.md
-            git commit -m "chore: update daily quote ($i/$COUNT – $(TZ=Asia/Kolkata date))"
+            git commit -m "chore: update daily quote [$i/${{ env.COUNT }}] ($(TZ=Asia/Kolkata date))"
 
-            sleep $((RANDOM % 20 + 5))
+            # Random sleep between 5 and 25 seconds (to spread commits naturally)
+            sleep $((RANDOM % 21 + 5))
           done
 
-      - name: Pull latest main (avoid conflicts)
-        run: |
-          git pull --rebase origin main || echo "No changes to rebase"
-
-      - name: Push changes
-        run: |
-          git push https://x-access-token:${{ secrets.PERSONAL_TOKENN }}@github.com/sahyl/sahyl.git HEAD:main
-
+      - name: Push all commits
+        run: git push origin main
