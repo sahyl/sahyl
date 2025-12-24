@@ -49,7 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Do you want to know who you are? Don't ask. Act! Action will delineate and define you. — Thomas Jefferson
+Success and failure come and go, but don't let them define you. It's who you are that matters. — Kamal Ravikant
+
+_Last updated: 12:25:02 on 24 Dec 2025_
 <!--END_QUOTE-->
 
 ---
