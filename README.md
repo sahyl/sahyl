@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Success and failure come and go, but don't let them define you. It's who you are that matters. — Kamal Ravikant
+The world doesn't always give you want, but it often gives you what you need. — Naval Ravikant
 
-_Last updated: 12:26:16 on 24 Dec 2025_
+_Last updated: 12:23:47 on 25 Dec 2025_
 <!--END_QUOTE-->
 
 ---
