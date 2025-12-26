@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-The world doesn't always give you want, but it often gives you what you need. — Naval Ravikant
+Words without actions are the assassins of idealism. — Herbert Hoover
 
-_Last updated: 12:24:41 on 25 Dec 2025_
+_Last updated: 12:23:23 on 26 Dec 2025_
 <!--END_QUOTE-->
 
 ---
