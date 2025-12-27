@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Words without actions are the assassins of idealism. — Herbert Hoover
+If you don't have time to do it right, when will you have time to do it over? — John Wooden
 
-_Last updated: 12:23:23 on 26 Dec 2025_
+_Last updated: 12:21:28 on 27 Dec 2025_
 <!--END_QUOTE-->
 
 ---
