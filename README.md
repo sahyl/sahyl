@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-If you don't have time to do it right, when will you have time to do it over? — John Wooden
+This is the most simple and basic component of life: our struggles determine our successes. — Mark Manson
 
-_Last updated: 12:21:28 on 27 Dec 2025_
+_Last updated: 12:21:46 on 28 Dec 2025_
 <!--END_QUOTE-->
 
 ---
