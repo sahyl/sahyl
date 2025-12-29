@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-This is the most simple and basic component of life: our struggles determine our successes. — Mark Manson
+Learn the rules like a pro, so you can break them like an artist. — Pablo Picasso
 
-_Last updated: 12:22:04 on 28 Dec 2025_
+_Last updated: 12:27:25 on 29 Dec 2025_
 <!--END_QUOTE-->
 
 ---
