@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 <!--START_QUOTE-->
 Learn the rules like a pro, so you can break them like an artist. — Pablo Picasso
 
-_Last updated: 12:27:25 on 29 Dec 2025_
+_Last updated: 12:27:43 on 29 Dec 2025_
 <!--END_QUOTE-->
 
 ---
