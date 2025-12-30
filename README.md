@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Learn the rules like a pro, so you can break them like an artist. — Pablo Picasso
+Lack of direction, not lack of time, is the problem. We all have twenty-four hour days. — Zig Ziglar
 
-_Last updated: 12:27:43 on 29 Dec 2025_
+_Last updated: 12:24:18 on 30 Dec 2025_
 <!--END_QUOTE-->
 
 ---
