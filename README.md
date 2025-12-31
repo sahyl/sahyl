@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Lack of direction, not lack of time, is the problem. We all have twenty-four hour days. — Zig Ziglar
+The significance of life is living. — Jiddu Krishnamurti
 
-_Last updated: 12:24:29 on 30 Dec 2025_
+_Last updated: 12:24:37 on 31 Dec 2025_
 <!--END_QUOTE-->
 
 ---
