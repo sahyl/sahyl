@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-The significance of life is living. — Jiddu Krishnamurti
+Trust is built and maintained by many small actions over time. — Lolly Daskal
 
-_Last updated: 12:25:48 on 31 Dec 2025_
+_Last updated: 12:24:50 on 01 Jan 2026_
 <!--END_QUOTE-->
 
 ---
