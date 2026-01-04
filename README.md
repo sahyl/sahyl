@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Things turn out best for the people who make the best of the way things turn out. — John Wooden
+So long as we are being remembered, we remain alive. — Carlos Ruiz Zafon
 
-_Last updated: 12:21:47 on 03 Jan 2026_
+_Last updated: 12:23:03 on 04 Jan 2026_
 <!--END_QUOTE-->
 
 ---
