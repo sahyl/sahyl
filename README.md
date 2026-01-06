@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Be thankful for everything that happens in your life; it's all an experience. — Roy T. Bennett
+A good character is the best tombstone. Carve your name on hearts, not on marble. — Charles Spurgeon
 
-_Last updated: 12:31:27 on 05 Jan 2026_
+_Last updated: 12:27:01 on 06 Jan 2026_
 <!--END_QUOTE-->
 
 ---
