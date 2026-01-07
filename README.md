@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-A good character is the best tombstone. Carve your name on hearts, not on marble. — Charles Spurgeon
+Deeds will not be less valiant because they are upraised. — J.R.R. Tolkien
 
-_Last updated: 12:27:29 on 06 Jan 2026_
+_Last updated: 12:25:58 on 07 Jan 2026_
 <!--END_QUOTE-->
 
 ---
