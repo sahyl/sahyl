@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Allow motion to equal emotion. — Elbert Hubbard
+A man is but a product of his thoughts. What he thinks he becomes. — Mahatma Gandhi
 
-_Last updated: 12:25:28 on 08 Jan 2026_
+_Last updated: 12:26:00 on 09 Jan 2026_
 <!--END_QUOTE-->
 
 ---
