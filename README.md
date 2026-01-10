@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-A man is but a product of his thoughts. What he thinks he becomes. — Mahatma Gandhi
+Once you learn to quit, it becomes a habit. — Vince Lombardi
 
-_Last updated: 12:26:27 on 09 Jan 2026_
+_Last updated: 12:21:13 on 10 Jan 2026_
 <!--END_QUOTE-->
 
 ---
