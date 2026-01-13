@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 <!--START_QUOTE-->
 To find yourself, think for yourself. — Socrates
 
-_Last updated: 12:26:56 on 13 Jan 2026_
+_Last updated: 12:27:03 on 13 Jan 2026_
 <!--END_QUOTE-->
 
 ---
