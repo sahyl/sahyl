@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-To find yourself, think for yourself. — Socrates
+Who you are is defined by what you're willing to struggle for. — Mark Manson
 
-_Last updated: 12:27:03 on 13 Jan 2026_
+_Last updated: 12:25:54 on 14 Jan 2026_
 <!--END_QUOTE-->
 
 ---
