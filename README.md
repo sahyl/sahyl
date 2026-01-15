@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Who you are is defined by what you're willing to struggle for. — Mark Manson
+I've always tried to go a step past wherever people expected me to end up. — Beverly Sills
 
-_Last updated: 12:25:54 on 14 Jan 2026_
+_Last updated: 12:25:51 on 15 Jan 2026_
 <!--END_QUOTE-->
 
 ---
