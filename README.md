@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-I've always tried to go a step past wherever people expected me to end up. — Beverly Sills
+Always seek out the seed of triumph in every adversity. — Og Mandino
 
-_Last updated: 12:26:18 on 15 Jan 2026_
+_Last updated: 12:25:22 on 16 Jan 2026_
 <!--END_QUOTE-->
 
 ---
