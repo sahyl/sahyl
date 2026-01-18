@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Stop comparing yourself to others and focus on your own improvement. — Lolly Daskal
+Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage. — Celestine Chua
 
-_Last updated: 12:21:39 on 17 Jan 2026_
+_Last updated: 12:22:19 on 18 Jan 2026_
 <!--END_QUOTE-->
 
 ---
