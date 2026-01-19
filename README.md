@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage. — Celestine Chua
+The only place success comes before work is in the dictionary. — Vince Lombardi
 
-_Last updated: 12:22:19 on 18 Jan 2026_
+_Last updated: 12:32:05 on 19 Jan 2026_
 <!--END_QUOTE-->
 
 ---
