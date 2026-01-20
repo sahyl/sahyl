@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 <!--START_QUOTE-->
 When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head. — Stephen King
 
-_Last updated: 12:29:40 on 20 Jan 2026_
+_Last updated: 12:29:49 on 20 Jan 2026_
 <!--END_QUOTE-->
 
 ---
