@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-The only place success comes before work is in the dictionary. — Vince Lombardi
+When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head. — Stephen King
 
-_Last updated: 12:32:10 on 19 Jan 2026_
+_Last updated: 12:29:40 on 20 Jan 2026_
 <!--END_QUOTE-->
 
 ---
