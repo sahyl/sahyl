@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head. — Stephen King
+The meaning of life is that it stops. — Franz Kafka
 
-_Last updated: 12:30:30 on 20 Jan 2026_
+_Last updated: 12:29:53 on 21 Jan 2026_
 <!--END_QUOTE-->
 
 ---
