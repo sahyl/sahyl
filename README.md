@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-The meaning of life is that it stops. — Franz Kafka
+There is always risk, so learn to manage risk instead of avoiding it. — Robert Kiyosaki
 
-_Last updated: 12:30:05 on 21 Jan 2026_
+_Last updated: 12:28:05 on 22 Jan 2026_
 <!--END_QUOTE-->
 
 ---
