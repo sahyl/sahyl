@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-There is always risk, so learn to manage risk instead of avoiding it. — Robert Kiyosaki
+Motivation is what gets you started. Habit is what keeps you going. — Jim Rohn
 
-_Last updated: 12:29:30 on 22 Jan 2026_
+_Last updated: 12:27:37 on 23 Jan 2026_
 <!--END_QUOTE-->
 
 ---
