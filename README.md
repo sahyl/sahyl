@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.   — Wayne Dyer
+Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference. — Robert Frost
 
-_Last updated: 12:24:53 on 25 Jan 2026_
+_Last updated: 12:30:01 on 26 Jan 2026_
 <!--END_QUOTE-->
 
 ---
