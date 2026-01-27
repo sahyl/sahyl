@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference. — Robert Frost
+There is nothing more truly artistic than to love people. — Vincent van Gogh
 
-_Last updated: 12:30:01 on 26 Jan 2026_
+_Last updated: 12:28:37 on 27 Jan 2026_
 <!--END_QUOTE-->
 
 ---
