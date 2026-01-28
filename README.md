@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-There is nothing more truly artistic than to love people. — Vincent van Gogh
+The more you trust yourself, the less you compare yourself to others. — Roy T. Bennett
 
-_Last updated: 12:29:01 on 27 Jan 2026_
+_Last updated: 12:28:43 on 28 Jan 2026_
 <!--END_QUOTE-->
 
 ---
