@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-The more you trust yourself, the less you compare yourself to others. — Roy T. Bennett
+People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine. — Brian Tracy
 
-_Last updated: 12:28:43 on 28 Jan 2026_
+_Last updated: 12:41:34 on 29 Jan 2026_
 <!--END_QUOTE-->
 
 ---
