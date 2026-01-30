@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine. — Brian Tracy
+Always forgive your enemies - nothing annoys them so much.  — Oscar Wilde
 
-_Last updated: 12:42:03 on 29 Jan 2026_
+_Last updated: 12:42:33 on 30 Jan 2026_
 <!--END_QUOTE-->
 
 ---
