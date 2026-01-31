@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 <!--START_QUOTE-->
 Until we can manage time, we can manage nothing else. — Peter Drucker
 
-_Last updated: 12:33:31 on 31 Jan 2026_
+_Last updated: 12:33:53 on 31 Jan 2026_
 <!--END_QUOTE-->
 
 ---
