@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Always forgive your enemies - nothing annoys them so much.  — Oscar Wilde
+Until we can manage time, we can manage nothing else. — Peter Drucker
 
-_Last updated: 12:43:15 on 30 Jan 2026_
+_Last updated: 12:33:08 on 31 Jan 2026_
 <!--END_QUOTE-->
 
 ---
