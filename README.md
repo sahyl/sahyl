@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Until we can manage time, we can manage nothing else. — Peter Drucker
+Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit. — Conrad Hilton
 
-_Last updated: 12:34:48 on 31 Jan 2026_
+_Last updated: 12:39:33 on 01 Feb 2026_
 <!--END_QUOTE-->
 
 ---
