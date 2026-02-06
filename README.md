@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man. — Elbert Hubbard
+If you want peace, you won't get it with violence. — John Lennon
 
-_Last updated: 13:01:54 on 05 Feb 2026_
+_Last updated: 12:57:19 on 06 Feb 2026_
 <!--END_QUOTE-->
 
 ---
