@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 <!--START_QUOTE-->
 If you want peace, you won't get it with violence. — John Lennon
 
-_Last updated: 12:57:57 on 06 Feb 2026_
+_Last updated: 12:58:07 on 06 Feb 2026_
 <!--END_QUOTE-->
 
 ---
