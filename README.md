@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-If you want peace, you won't get it with violence. — John Lennon
+Sometimes things become possible if we want them bad enough. — T.S. Eliot
 
-_Last updated: 12:58:28 on 06 Feb 2026_
+_Last updated: 12:36:18 on 07 Feb 2026_
 <!--END_QUOTE-->
 
 ---
