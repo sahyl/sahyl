@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Sometimes things become possible if we want them bad enough. — T.S. Eliot
+Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives. — Betty White
 
-_Last updated: 12:36:35 on 07 Feb 2026_
+_Last updated: 12:40:29 on 08 Feb 2026_
 <!--END_QUOTE-->
 
 ---
