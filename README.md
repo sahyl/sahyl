@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives. — Betty White
+Our life isn't how much we can take out, but how much we can put in.   — Estee Lauder
 
-_Last updated: 12:41:29 on 08 Feb 2026_
+_Last updated: 13:05:59 on 09 Feb 2026_
 <!--END_QUOTE-->
 
 ---
