@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Our life isn't how much we can take out, but how much we can put in.   — Estee Lauder
+The way to change others' minds is with affection, and not anger. — Dalai Lama
 
-_Last updated: 13:07:01 on 09 Feb 2026_
+_Last updated: 13:06:41 on 10 Feb 2026_
 <!--END_QUOTE-->
 
 ---
