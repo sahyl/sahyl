@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 <!--START_QUOTE-->
 The way to change others' minds is with affection, and not anger. — Dalai Lama
 
-_Last updated: 13:07:18 on 10 Feb 2026_
+_Last updated: 13:07:25 on 10 Feb 2026_
 <!--END_QUOTE-->
 
 ---
