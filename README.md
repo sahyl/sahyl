@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-The way to change others' minds is with affection, and not anger. — Dalai Lama
+The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest. — Josh Waitzkin
 
-_Last updated: 13:07:41 on 10 Feb 2026_
+_Last updated: 13:03:35 on 11 Feb 2026_
 <!--END_QUOTE-->
 
 ---
