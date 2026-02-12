@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest. — Josh Waitzkin
+We must learn to live together as brothers or perish together as fools. — Martin Luther King, Jr.
 
-_Last updated: 13:04:55 on 11 Feb 2026_
+_Last updated: 13:03:37 on 12 Feb 2026_
 <!--END_QUOTE-->
 
 ---
