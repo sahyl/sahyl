@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 <!--START_QUOTE-->
 There will always be suffering. But we must not suffer over the suffering. — Alan Watts
 
-_Last updated: 13:00:31 on 13 Feb 2026_
+_Last updated: 13:00:48 on 13 Feb 2026_
 <!--END_QUOTE-->
 
 ---
