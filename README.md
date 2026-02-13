@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-We must learn to live together as brothers or perish together as fools. — Martin Luther King, Jr.
+There will always be suffering. But we must not suffer over the suffering. — Alan Watts
 
-_Last updated: 13:05:10 on 12 Feb 2026_
+_Last updated: 13:00:31 on 13 Feb 2026_
 <!--END_QUOTE-->
 
 ---
