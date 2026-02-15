@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Passion is born deaf and dumb. — Honore de Balzac
+You use a glass mirror to see your face; you use works of art to see your soul. — George Bernard Shaw
 
-_Last updated: 12:38:26 on 14 Feb 2026_
+_Last updated: 12:41:31 on 15 Feb 2026_
 <!--END_QUOTE-->
 
 ---
