@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-You use a glass mirror to see your face; you use works of art to see your soul. — George Bernard Shaw
+Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through. — Jonathan Swift
 
-_Last updated: 12:42:59 on 15 Feb 2026_
+_Last updated: 13:04:54 on 16 Feb 2026_
 <!--END_QUOTE-->
 
 ---
