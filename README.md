@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through. — Jonathan Swift
+Numbing the pain for a while will only make it worse when you finally feel it. — Albus Dumbledore
 
-_Last updated: 13:04:54 on 16 Feb 2026_
+_Last updated: 13:00:58 on 17 Feb 2026_
 <!--END_QUOTE-->
 
 ---
