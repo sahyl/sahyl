@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Numbing the pain for a while will only make it worse when you finally feel it. — Albus Dumbledore
+There is no path to Love. Love is the path. — Dan Millman
 
-_Last updated: 13:01:18 on 17 Feb 2026_
+_Last updated: 13:01:43 on 18 Feb 2026_
 <!--END_QUOTE-->
 
 ---
