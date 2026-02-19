@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-There is no path to Love. Love is the path. — Dan Millman
+If you do not tell the truth about yourself you cannot tell it about other people. — Virginia Woolf
 
-_Last updated: 13:02:27 on 18 Feb 2026_
+_Last updated: 13:01:02 on 19 Feb 2026_
 <!--END_QUOTE-->
 
 ---
