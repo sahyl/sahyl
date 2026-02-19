@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 <!--START_QUOTE-->
 If you do not tell the truth about yourself you cannot tell it about other people. — Virginia Woolf
 
-_Last updated: 13:01:58 on 19 Feb 2026_
+_Last updated: 13:02:16 on 19 Feb 2026_
 <!--END_QUOTE-->
 
 ---
