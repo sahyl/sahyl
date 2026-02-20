@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-If you do not tell the truth about yourself you cannot tell it about other people. — Virginia Woolf
+Respect other people's feelings. It might mean nothing to you, but it could mean everything to them. — Roy T. Bennett
 
-_Last updated: 13:02:16 on 19 Feb 2026_
+_Last updated: 12:58:47 on 20 Feb 2026_
 <!--END_QUOTE-->
 
 ---
