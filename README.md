@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-The true soldier fights not because he hates what is in front of him, but because he loves what is behind him. — Gilbert Chesterton
+Failure will never overtake me if my determination to succeed is strong enough. — Og Mandino
 
-_Last updated: 13:02:41 on 24 Feb 2026_
+_Last updated: 13:01:55 on 25 Feb 2026_
 <!--END_QUOTE-->
 
 ---
