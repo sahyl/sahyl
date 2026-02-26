@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Failure will never overtake me if my determination to succeed is strong enough. — Og Mandino
+The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone.  — Orison Swett Marden
 
-_Last updated: 13:02:55 on 25 Feb 2026_
+_Last updated: 13:01:37 on 26 Feb 2026_
 <!--END_QUOTE-->
 
 ---
