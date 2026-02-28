@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen. — Winston Churchill
+The quicker you let go of old cheese, the sooner you find new cheese. — Spencer Johnson
 
-_Last updated: 12:57:08 on 27 Feb 2026_
+_Last updated: 12:30:37 on 28 Feb 2026_
 <!--END_QUOTE-->
 
 ---
