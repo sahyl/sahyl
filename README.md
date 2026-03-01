@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-The quicker you let go of old cheese, the sooner you find new cheese. — Spencer Johnson
+Success is getting what you want... Happiness is wanting what you get. — Dale Carnegie
 
-_Last updated: 12:31:35 on 28 Feb 2026_
+_Last updated: 12:37:23 on 01 Mar 2026_
 <!--END_QUOTE-->
 
 ---
