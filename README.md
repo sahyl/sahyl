@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-If you done it, it ain't bragging. — Walt Whitman
+If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes. — Andrew Carnegie
 
-_Last updated: 13:01:03 on 02 Mar 2026_
+_Last updated: 12:43:42 on 03 Mar 2026_
 <!--END_QUOTE-->
 
 ---
