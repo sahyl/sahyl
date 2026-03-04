@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes. — Andrew Carnegie
+The merit of all things lies in their difficulty. — Alexandre Dumas
 
-_Last updated: 12:44:23 on 03 Mar 2026_
+_Last updated: 12:39:49 on 04 Mar 2026_
 <!--END_QUOTE-->
 
 ---
