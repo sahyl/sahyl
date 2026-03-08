@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-You must welcome change as the rule but not as your ruler.  — Denis Waitley
+Remember the entrance to the sanctuary is inside you. — Rumi
 
-_Last updated: 12:33:22 on 07 Mar 2026_
+_Last updated: 12:35:13 on 08 Mar 2026_
 <!--END_QUOTE-->
 
 ---
