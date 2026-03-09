@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Remember the entrance to the sanctuary is inside you. — Rumi
+A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled. — Andrew Carnegie
 
-_Last updated: 12:35:45 on 08 Mar 2026_
+_Last updated: 13:02:30 on 09 Mar 2026_
 <!--END_QUOTE-->
 
 ---
