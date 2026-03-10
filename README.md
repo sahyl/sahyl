@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled. — Andrew Carnegie
+The hard path is often the right one. The river teaches more than the shore. — Maxime Lagace
 
-_Last updated: 13:03:12 on 09 Mar 2026_
+_Last updated: 12:42:11 on 10 Mar 2026_
 <!--END_QUOTE-->
 
 ---
