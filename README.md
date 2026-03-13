@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-It is in changing that we find purpose. — Heraclitus
+The purpose of life is to contribute in some way to making things better. — Robert F. Kennedy
 
-_Last updated: 12:57:58 on 12 Mar 2026_
+_Last updated: 12:56:27 on 13 Mar 2026_
 <!--END_QUOTE-->
 
 ---
