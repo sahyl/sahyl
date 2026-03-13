@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 <!--START_QUOTE-->
 The purpose of life is to contribute in some way to making things better. — Robert F. Kennedy
 
-_Last updated: 12:56:27 on 13 Mar 2026_
+_Last updated: 12:56:44 on 13 Mar 2026_
 <!--END_QUOTE-->
 
 ---
