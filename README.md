@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.  — Lao Tzu
+If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin. — Charles Darwin
 
-_Last updated: 12:40:27 on 14 Mar 2026_
+_Last updated: 12:56:28 on 15 Mar 2026_
 <!--END_QUOTE-->
 
 ---
