@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 <!--START_QUOTE-->
 If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin. — Charles Darwin
 
-_Last updated: 12:56:43 on 15 Mar 2026_
+_Last updated: 12:57:06 on 15 Mar 2026_
 <!--END_QUOTE-->
 
 ---
