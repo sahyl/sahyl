@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin. — Charles Darwin
+You came empty handed, and you will leave empty handed. — Bhagavad Gita
 
-_Last updated: 12:57:36 on 15 Mar 2026_
+_Last updated: 13:22:46 on 16 Mar 2026_
 <!--END_QUOTE-->
 
 ---
