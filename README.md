@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Mistakes are always forgivable, if one has the courage to admit them.  — Bruce Lee
+Our stories may be singular, but our destination is shared. — Barack Obama
 
-_Last updated: 13:00:13 on 19 Mar 2026_
+_Last updated: 12:57:53 on 20 Mar 2026_
 <!--END_QUOTE-->
 
 ---
