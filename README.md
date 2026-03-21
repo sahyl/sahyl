@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Our stories may be singular, but our destination is shared. — Barack Obama
+You are always your own best guru, your own best teacher, the answers are always inside you. — Sathya Sai Baba
 
-_Last updated: 12:58:51 on 20 Mar 2026_
+_Last updated: 12:36:38 on 21 Mar 2026_
 <!--END_QUOTE-->
 
 ---
