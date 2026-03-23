@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-We become what we believe. — Lolly Daskal
+If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month. — Theodore Roosevelt
 
-_Last updated: 12:42:54 on 22 Mar 2026_
+_Last updated: 13:12:59 on 23 Mar 2026_
 <!--END_QUOTE-->
 
 ---
