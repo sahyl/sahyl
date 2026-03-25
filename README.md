@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-Just do the best you can. No one can do more than that. — John Wooden
+Courage is resistance to fear, mastery of fear - not absence of fear. — Mark Twain
 
-_Last updated: 13:05:15 on 24 Mar 2026_
+_Last updated: 13:03:47 on 25 Mar 2026_
 <!--END_QUOTE-->
 
 ---
