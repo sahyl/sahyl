@@ -51,7 +51,7 @@ My journey blends **data science, backend engineering, and AI research** — dem
 <!--START_QUOTE-->
 We suffer more often in imagination than in reality. — Seneca
 
-_Last updated: 13:09:18 on 27 Mar 2026_
+_Last updated: 13:09:43 on 27 Mar 2026_
 <!--END_QUOTE-->
 
 ---
