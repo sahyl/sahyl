@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-The best revenge is to be unlike him who performed the injury. — Marcus Aurelius
+We suffer more often in imagination than in reality. — Seneca
 
-_Last updated: 13:11:21 on 26 Mar 2026_
+_Last updated: 13:09:18 on 27 Mar 2026_
 <!--END_QUOTE-->
 
 ---
