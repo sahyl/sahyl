@@ -49,9 +49,9 @@ My journey blends **data science, backend engineering, and AI research** — dem
 ---
 ### ✍️ Random  Quote
 <!--START_QUOTE-->
-We suffer more often in imagination than in reality. — Seneca
+A memory is a beautiful thing, it's almost a desire that you miss. — Gustave Flaubert
 
-_Last updated: 13:10:25 on 27 Mar 2026_
+_Last updated: 12:57:42 on 28 Mar 2026_
 <!--END_QUOTE-->
 
 ---
