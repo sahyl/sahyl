@@ -1,35 +1,42 @@
-<h1 align="center">Hi 👋, I'm Mohammed Sahil Khan</h1>
-<h3 align="center">Engineer  | Full-Stack Explorer</h3>
+<div align="center">
+
+# Mohammed Sahil Khan
+
+**Full-Stack Engineer** — building at the intersection of web, data, and AI
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saaahil)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/lihaskahn)
+
+</div>
 
 ---
 
-## 💫 About Me
-I’m a passionate engineer with a strong foundation in **Typescript, SQL, and modern web frameworks** like **React.js, Node.js, and Next.js**.  
-My journey blends **data science, backend engineering, and AI research** — demonstrated through projects in **computer vision, full-stack web apps, and scalable backend systems**.
+## About
 
-- 🎬 Outside of code, I love **films, cinema, and storytelling**   
-- 🛠️ Experienced in **full-stack apps** like real-time messaging & collaborative platforms  
-- 📚 Solved **700+ problems on LeetCode** and enjoy knowledge-sharing through talks & mentoring  
+Engineer working across **Typescript, SQL, and modern web frameworks** — React, Node.js, Next.js.
+My work spans **full-stack apps, backend systems, and AI/computer vision research**.
 
----
-
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/saaahil" target="_blank">
-<img src="https://img.shields.io/badge/LINkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
- 
-  <a href="https://x.com/lihaskahn" target="_blank">
-<img src="https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
-  </a>
-</p>
+- Building real-time and collaborative platforms end-to-end
+- 700+ problems solved on LeetCode
+- Into films and storytelling outside of code
 
 ---
 
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,mysql,postgres,git,github,vercel,figma,tailwind" />
-</p>
+## Tech Stack
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
 
 ---
 
@@ -41,22 +48,12 @@ My journey blends **data science, backend engineering, and AI research** — dem
 <img src="./profile/top-langs.svg" height="165"/>
 
 </div>
----
-
-## 🧩 Open Source Contributions
-- [turborepo#10579](https://github.com/vercel/turborepo/pull/10579): Fixed broken Tailwind CSS styling in the `with-tailwind` example
-
----
-### ✍️ Random  Quote
-<!--START_QUOTE-->
-A memory is a beautiful thing, it's almost a desire that you miss. — Gustave Flaubert
-
-_Last updated: 12:57:48 on 28 Mar 2026_
-<!--END_QUOTE-->
 
 ---
 
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sahyl&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
+## Open Source
+
+- **[turborepo#10579](https://github.com/vercel/turborepo/pull/10579)** — fixed broken Tailwind CSS styling in the `with-tailwind` example
+
+---
+
