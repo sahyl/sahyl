@@ -4,7 +4,7 @@
 ---
 
 ## 💫 About Me
-I’m a passionate engineer with a strong foundation in **JavaScript, SQL, and modern web frameworks** like **React.js, Node.js, and Next.js**.  
+I’m a passionate engineer with a strong foundation in **Typescript, SQL, and modern web frameworks** like **React.js, Node.js, and Next.js**.  
 My journey blends **data science, backend engineering, and AI research** — demonstrated through projects in **computer vision, full-stack web apps, and scalable backend systems**.
 
 - 🎬 Outside of code, I love **films, cinema, and storytelling**   
@@ -33,14 +33,14 @@ My journey blends **data science, backend engineering, and AI research** — dem
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahyl&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahyl&theme=radical&hide_border=false" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahyl&theme=radical&hide_border=false&layout=compact&t=12345" height="160"/>
-</p> 
+## GitHub Stats
+
+<div align="center">
+
+<img src="./profile/stats.svg" height="165"/>
+<img src="./profile/top-langs.svg" height="165"/>
+
+</div>
 ---
 
 ## 🧩 Open Source Contributions
