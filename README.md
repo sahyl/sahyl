@@ -55,5 +55,8 @@ My work spans **full-stack apps, backend systems, and AI/computer vision researc
 
 - **[turborepo#10579](https://github.com/vercel/turborepo/pull/10579)** — fixed broken Tailwind CSS styling in the `with-tailwind` example
 - **[turborepo#14366](https://github.com/vercel/turborepo/pull/14366)** — fix: Populate task graphs for affected and filtered listings
+- **[turborepo#14794](https://github.com/vercel/turborepo/pull/14794)** — fix: Parse JSX in JavaScript files
+
+
 ---
 
