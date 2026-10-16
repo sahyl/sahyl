@@ -60,5 +60,5 @@ My work spans **full-stack apps, backend systems, and AI/computer vision researc
 
 
 
----docs: Use .NET in the multi-language guide
+---
 
