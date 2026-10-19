@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Mohammed Sahil Khan&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 843, Total PRs: 44, Total Issues: 0, Contributed to (last year): 3</desc>
+        <title id="titleId">Sahil Khan&#39;s GitHub Stats, Rank: C+</title>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 843, Total PRs: 47, Total Issues: 0, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 197.96589642094222;
+        stroke-dashoffset: 196.57514157459806;
       }
     }
   
@@ -133,7 +133,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Mohammed Sahil Khan&#39;s GitHub Stats</text>
+      >Sahil Khan&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >44</text>
+      >47</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
