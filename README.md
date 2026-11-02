@@ -60,6 +60,9 @@ My work spans **full-stack apps, backend systems, and AI/computer vision researc
 - **[turborepo#14814](https://github.com/vercel/turborepo/pull/14814)** — fix: Allow non-recursive Turbo commands in root tasks
 - **[turborepo#14819](https://github.com/vercel/turborepo/pull/14819)** — fix: Avoid pnpm batch-shim shutdown hangs on Windows
 - **[turborepo#14855](https://github.com/vercel/turborepo/pull/14855)** — fix: Include both paths of staged renames in affected runs
+- **[turborepo#14915](https://github.com/vercel/turborepo/pull/14915)** — fix: Restore shell completion
+
+
 
 
 
