@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mohammed Sahil Khan
+# Sahil Khan
 
 **Full-Stack Engineer** — building at the intersection of web, data, and AI
 
