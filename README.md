@@ -62,7 +62,7 @@ My work spans **full-stack apps, backend systems, and AI/computer vision researc
 - **[turborepo#14855](https://github.com/vercel/turborepo/pull/14855)** — fix: Include both paths of staged renames in affected runs
 - **[turborepo#14915](https://github.com/vercel/turborepo/pull/14915)** — fix: Restore shell completion
 - **[turborepo#14918](https://github.com/vercel/turborepo/pull/14918)** — fix: Respect head refs when comparing lockfiles
-
+- **[turborepo#14860](https://github.com/vercel/turborepo/pull/14860)** — fix: Respect task exclusions in dependencies
 
 
 
